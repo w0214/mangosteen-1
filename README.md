@@ -15,3 +15,5 @@ RAILS_ENV=test bin/rails db:create
 ```
 RAILS_ENV=test bin/rails db:migrate
 ```
+
+bin/rails generate rspec:request validation_codes
