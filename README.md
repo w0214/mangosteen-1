@@ -15,3 +15,4 @@ RAILS_ENV=test bin/rails db:create
 ```
 RAILS_ENV=test bin/rails db:migrate
 ```
+测试换台电脑
