@@ -17,3 +17,9 @@ RAILS_ENV=test bin/rails db:migrate
 ```
 
 bin/rails generate rspec:request validation_codes
+
+
+### 添加可执行权限
+chmod +x bin/pack_for_host.sh
+
+chmod +x bin/setup_host.sh
